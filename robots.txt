@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /blog.html
+Sitemap: https://te-xchange.ch/sitemap.xml
