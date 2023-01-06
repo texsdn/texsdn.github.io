@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://www.te-xchange.ch</loc>
+		<loc>https://texsdn.github.io</loc>
 		<priority>1.00</priority>
 		<lastmod>2023-01-06</lastmod>
 	</url>
 	<url>
-		<loc>https://www.te-xchange.ch/privacy.html</loc>
+		<loc>https://texsdn.github.io/privacy.html</loc>
 		<priority>0.50</priority>
 		<lastmod>2021-11-30</lastmod>
 	</url>
 	<url>
-		<loc>https://www.te-xchange.ch/blog.html</loc>
+		<loc>https://texsdn.github.io/blog.html</loc>
 		<priority>0.50</priority>
 		<lastmod>2021-11-30</lastmod>
 	</url>
 	<url>
-		<loc>https://www.te-xchange.ch/404.html</loc>
+		<loc>https://texsdn.github.io/404.html</loc>
 		<priority>0.50</priority>
 		<lastmod>2021-11-30</lastmod>
 	</url>
